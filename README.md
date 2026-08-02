@@ -1,3 +1,3 @@
 ## FALLEN ANGEL
 ![Preview](preview.png)
-A theme for **[Omarchy](https://omarchy.org/)**
+A warm dark theme derived from the palette of Cabanel's Fallen Angel
