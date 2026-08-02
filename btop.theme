@@ -1,0 +1,62 @@
+theme[main_bg]="#241109"
+theme[main_fg]="#f2ede1"
+theme[title]="#f2ede1"
+theme[hi_fg]="#d98a6a"
+theme[selected_bg]="#4e2a1b"
+theme[selected_fg]="#f2ede1"
+theme[inactive_fg]="#a3763f"
+theme[graph_text]="#c9a877"
+theme[meter_bg]="#3a1c12"
+theme[proc_misc]="#c9a877"
+
+# Box outlines
+theme[cpu_box]="#6e3b22"
+theme[mem_box]="#6e3b22"
+theme[net_box]="#6e3b22"
+theme[proc_box]="#6e3b22"
+theme[div_line]="#4e2a1b"
+
+# Temperature graph (cool -> warm -> hot)
+theme[temp_start]="#a3873f"
+theme[temp_mid]="#c9a877"
+theme[temp_end]="#b8452e"
+
+# CPU graph (bronze -> ochre -> coral)
+theme[cpu_start]="#a3763f"
+theme[cpu_mid]="#c9a877"
+theme[cpu_end]="#d98a6a"
+
+# Mem/Disk free meter
+theme[free_start]="#6e3b22"
+theme[free_mid]="#a3763f"
+theme[free_end]="#c9a877"
+
+# Mem/Disk cached meter
+theme[cached_start]="#a3763f"
+theme[cached_mid]="#c9a877"
+theme[cached_end]="#e8e2d4"
+
+# Mem/Disk available meter
+theme[available_start]="#d98a6a"
+theme[available_mid]="#c47a52"
+theme[available_end]="#b8452e"
+
+# Mem/Disk used meter
+theme[used_start]="#a3873f"
+theme[used_mid]="#c9a877"
+theme[used_end]="#d98a6a"
+
+# Download graph
+theme[download_start]="#c9a877"
+theme[download_mid]="#c47a52"
+theme[download_end]="#b8452e"
+
+# Upload graph
+theme[upload_start]="#a3763f"
+theme[upload_mid]="#c9a877"
+theme[upload_end]="#e8e2d4"
+
+# Process box gradient
+theme[process_start]="#a3763f"
+theme[process_mid]="#c9a877"
+theme[process_end]="#d98a6a"
